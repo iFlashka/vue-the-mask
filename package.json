@@ -2,7 +2,7 @@
   "name": "@iflashka/vue-the-mask",
   "version": "0.11.2",
   "description": "Tiny (2KB) and dependency free mask input for Vue.js",
-  "main": "dist/vue-the-mask.js",
+  "main": "src/index.js",
   "scripts": {
     "size": "size-limit",
     "upgrade:check": "ncu",
