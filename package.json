@@ -1,6 +1,6 @@
 {
   "name": "@iflashka/vue-the-mask",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "description": "Tiny (2KB) and dependency free mask input for Vue.js",
   "main": "src/index.js",
   "scripts": {
